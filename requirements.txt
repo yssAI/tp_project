@@ -48,7 +48,7 @@ celery
 anytree
 ipfsapi
 jupyterhub-kubespawner
-tensorflow==1.11.0
+tensorflow==1.15.2
 flask-restplus
 qiniu
 elasticsearch
